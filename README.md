@@ -25,9 +25,13 @@ Note: "liquidcrystal_i2c.c" goes in the "Src" folder, and "liquidcrystal_i2c.h" 
 
 ## Circuit Layout:
 The left button is to scroll down. The Right right button is to scroll up. The blue built-in button on the STM32 is to select.
-![circuit drawing](https://github.com/Apollo99-Games/Prototype-Medication-Alarm-Clock/assets/163193765/9170ec07-8349-4dee-8f4e-15d69d62c2d3)
+
+![circuit drawing](https://github.com/Apollo99-Games/Medication-Alarm-Clock/assets/163193765/f479b356-270e-4c47-af63-77055ab3fe09)
 
 ## Demonstration:
+
+https://github.com/Apollo99-Games/Medication-Alarm-Clock/assets/163193765/c6dd59c9-375f-42b1-be5d-aee8d93f541b
+
 
 https://github.com/Apollo99-Games/Medication-Alarm-Clock/assets/163193765/646e8575-f676-4235-a231-ae75a57e286d
 
