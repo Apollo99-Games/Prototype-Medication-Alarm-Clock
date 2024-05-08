@@ -1,0 +1,9 @@
+../Core/Src/Graphics.c:22:6:G_SetTime	1
+../Core/Src/Graphics.c:26:6:G_SetVolume	2
+../Core/Src/Graphics.c:35:6:G_SetBlink	2
+../Core/Src/Graphics.c:44:6:G_Add_Med	1
+../Core/Src/Graphics.c:48:6:G_Display_Med	1
+../Core/Src/Graphics.c:54:6:G_Delete_Med	1
+../Core/Src/Graphics.c:60:6:G_TakeMed	2
+../Core/Src/Graphics.c:71:6:SetDisplay	1
+../Core/Src/Graphics.c:77:6:Update_Display	1

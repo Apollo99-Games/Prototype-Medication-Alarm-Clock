@@ -1,0 +1,14 @@
+../Core/Src/Pill_Clock.c:53:6:RunSetUp	8	static
+../Core/Src/Pill_Clock.c:72:6:RunLoop	16	static
+../Core/Src/Pill_Clock.c:126:6:ChooseDisplay	24	static
+../Core/Src/Pill_Clock.c:167:6:L_SetTime	16	static
+../Core/Src/Pill_Clock.c:187:6:L_SetVolume	4	static
+../Core/Src/Pill_Clock.c:197:6:L_SetBlink	4	static
+../Core/Src/Pill_Clock.c:207:6:L_Add_Med	16	static
+../Core/Src/Pill_Clock.c:242:6:L_Delete_Med	16	static
+../Core/Src/Pill_Clock.c:251:6:EmptyList	16	static
+../Core/Src/Pill_Clock.c:257:5:FindEmpty	16	static
+../Core/Src/Pill_Clock.c:263:5:GetNextMed	24	static
+../Core/Src/Pill_Clock.c:281:5:nextMed	16	static
+../Core/Src/Pill_Clock.c:290:5:GetDifference	24	static
+../Core/Src/Pill_Clock.c:298:5:abs	16	static
