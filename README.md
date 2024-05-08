@@ -33,9 +33,6 @@ The left button is to scroll down. The Right right button is to scroll up. The b
 https://github.com/Apollo99-Games/Medication-Alarm-Clock/assets/163193765/c6dd59c9-375f-42b1-be5d-aee8d93f541b
 
 
-https://github.com/Apollo99-Games/Medication-Alarm-Clock/assets/163193765/646e8575-f676-4235-a231-ae75a57e286d
-
-
 
 
 
